@@ -1,3 +1,3 @@
-module github.com/first-app
+module github.com/inverstment_calculator
 
-go 1.22.1
+go 1.22
